@@ -5,6 +5,11 @@ int main(){
   int a;
   printf("숫자를 입력하시오");
   scanf("%d", &a);
+  
+  for(int i=0;i<a;i++){
+    printf(":D\n");
+  }
+  
   printf("%d", a);
 
   return 0;
