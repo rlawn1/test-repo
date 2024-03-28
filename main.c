@@ -6,6 +6,8 @@ int main(){
   printf("숫자를 입력하시오");
   scanf("%d", &a);
   printf("%d", a);
+
+  return 0;
 }
 
 //김주현 202300791 컴퓨터공학부
